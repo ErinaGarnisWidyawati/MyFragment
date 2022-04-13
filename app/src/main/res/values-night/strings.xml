@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_display_name">User Display Name</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="masukkan_nama_hint">Masukkan Nama</string>
+</resources>
